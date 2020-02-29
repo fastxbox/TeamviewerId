@@ -1,4 +1,4 @@
-package com.ishehui.teamviewerid;
+package com.ishehui.teamvieweridlib;
 
 import android.content.ContentResolver;
 import android.content.ContentUris;

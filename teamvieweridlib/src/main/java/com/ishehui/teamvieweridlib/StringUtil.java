@@ -1,4 +1,4 @@
-package com.ishehui.teamviewerid;
+package com.ishehui.teamvieweridlib;
 
 public class StringUtil {
     public static final String TAG = StringUtil.class.getSimpleName();
