@@ -18,3 +18,7 @@ Step 2. Add the dependency
 	}
 ```
 
+使用方法
+···
+       String teamViewerId = TeamViewerHelper.getTeamviewerIDFromContent(this);
+···
